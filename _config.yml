@@ -1,4 +1,3 @@
-layout_spectrum: 0.6964107174426317
 typography_spectrum: 0.04459869721904397
 color:
   brandStrength: 0.0804488668218255
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.6964107174426317
 name: Moonshot
 title: Horizons
+description: Reach beyond everyday
