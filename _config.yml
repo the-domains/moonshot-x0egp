@@ -1,0 +1,14 @@
+layout_spectrum: 0.6964107174426317
+typography_spectrum: 0.04459869721904397
+color:
+  brandStrength: 0.0804488668218255
+  lightness: 0.4236586147453636
+  saturation: 0.34183742478489876
+  rhythmicContrast: 0.26444300869479775
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Moonshot
